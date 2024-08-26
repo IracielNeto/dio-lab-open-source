@@ -3,7 +3,7 @@
     Minha meta é ser Desenvolverdor back-end, atualmente sou Dev RPA.
 	
 ## Conecte-se Comigo
-[![LinkedIn](https://www.linkedin.com/in/iraciel-gon%C3%A7alves-de-salles-neto/)
+![LinkedIn](https://www.linkedin.com/in/iraciel-gon%C3%A7alves-de-salles-neto/)
 
 ## Habilidades
 
